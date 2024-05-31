@@ -7,7 +7,7 @@ Every tabletop game requires characters to play as. Legendary heros, members of 
 ### The Dice Pool
 A core mechanic of Open Adventures is the dice pool. A lot of games will have you perform 2 or 3 actions (such as move, fight, cast a spell, etc) each turn, but in Open Adventures these activities are instead dictated by how many dice you have in your pool.
 
-Player characters will have a pool of 5 dice. Players can then assign those dice to their attributes to perform actions. The more dice you assign, the better the results of the action.
+Player characters will have a pool of dice (usually around 5 for heroic or villainous characters). Players can then assign those dice to their attributes to perform actions. The more dice you assign, the better the results of the action.
 
 Dice from your dice pool are also used to defend against enemy attacks (using your defense attribute), so be carefull, using all your dice on your turn will leave you defenseless.
 
