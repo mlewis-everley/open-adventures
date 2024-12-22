@@ -13,12 +13,12 @@ Dice from your dice pool are also used to defend against enemy attacks (using yo
 
   **For example** A player decides to move their barbarian character and attack a skeleton warrior. The player assigns two of their dice to their "Move" attribute. Their Move attribute is 4, so the barbarian can move up to 8"/spaces (which allows him to reach the skeleton)
 
-  The player then decides to perform a powerful attack on the skeleton. They assign two dice to their "Fight" attribute and roll those dice  to attack, a 2 and a 5. As the barbarian's Fight attribute is 3+ that means one dice is a hit. The player could spend their last dice on another attack, but instead they decide to keep their final dice in reserve (to try and protect against the skeleton's upcoming attack).
+  The player then decides to perform a powerful attack on the skeleton. They assign two dice to their "Fight" attribute and roll those dice to attack, a 2 and a 5. As the barbarian's Fight attribute is 3+ that means one dice is a hit. The player could spend their last dice on another attack, but instead they decide to keep their final dice in reserve (to try and protect against the skeleton's upcoming attack).
 
 Finally, you **do not** need to pre-plan all your actions, dice can be assigned in any order on your turn. You could move once, then fight, then move again, etc.
 
 ### Attributes
-All actions in the game are controlled by your characters "Attributes". Each character has the following attributes, that can be assigned dice from the players dice pool to perform these actions.
+All actions in the game are controlled by your characters "Attributes". Each character has the following attributes and these dictate the maximum number of dice in a turn that can be spent performing actions linked to this attribute (EG: A shoot of 3 means you can never spend more than 3 dice in a turn on ranged combat).
 
 #### Move
 The Move attribute is a fixed number (usually between 1 and 10) that shows how far the character a character will move, based on the dice assigned. A character with Move 4 can move up to 4"/spaces when a dice is assigned.
@@ -34,6 +34,9 @@ The Skill attribute is used when you perform skilled actions (such as picking lo
 
 **NOTE** Very often, any check involving skill will involve passing more than one dice roll. These dice can be rolled simultaniously, or one after the other, BUT you cannot perform any other actions between dice rolls.
 
+#### Will
+Willpower is the ability to resist stressful situations or attempts of mind contol. 
+
 #### Mysticism
 The Mysticism attribute is used when you perform a magical or mystical actions (most commonly casting spells). For some characters (without mystical inclanations) it will be blank. Otherwise it will be a number between 2+ and 6+. This is the number you have to roll on any assigned dice to succeed at performing a magical action.
 
@@ -47,31 +50,44 @@ Unlike other games that might represent character health via a "Wounds" or "Heal
 
 Each time a character takes damage, you remove one dice from your pool. If you loose all your dice then the character is dead/out of the game.
 
+### Fatigue
+Fatigue is a measure of exhaustion your character is suffering. Characters start the game with zero fatigu, but as they "push" themselves (see actions below) they will aquire fatigue (which results in less dice to use in your dice pool).
+
 ## Actions
 Below will cover the most common actions you can perform in Open Adventure and how you use dice from your pool to perform them.
 
 ### Close Combat Attacks
-Be it an armoured paladin, an enforcer with a batton or a space knight with a laser sword. Melee attacks represent a lot of actions in most tabletop games. In Open Adventures, opponents need to be adjacent in order to engage in close combat .
+Be it an armoured paladin, an enforcer with a batton or a space knight with a laser sword. Melee attacks represent a lot of actions in most tabletop games.
 
-In order to perform a melee attack in Open Adventures, first you must be adjacent to your opponent (unless you have a weapon allows melee attacks from longer range). Then you must decide how many dice you want to dedicate to the attack from your pool. For example, a quick slash might only use one dice, but a heavy cleave using a two handed axe (or a precision strike with a knife) could use two or three dice. 
+In order to perform a melee attack in Open Adventures, first you must be adjacent to your opponent (unless you have a weapon that allows melee attacks from longer range). Then you must decide how many dice you want to dedicate to the attack from your pool. For example, a quick slash might only use one dice, but a heavy cleave using a two handed axe (or a precision strike with a knife) could use two or three dice. 
 
-Once you have decided how many dice to use for the attack you can then roll them. You **CANNOT** split the results after you have rolled. Each dice with a result greater than your "Shoot" stat is considered a success. Each success represents a single point of damage.
+Once you have decided how many dice to use for the attack you can then roll them. You **CANNOT** split the results after you have rolled. Each dice with a result of 4+ is a success (a 6 is considered 2 successes). Each success represents a single point of damage.
 
 ### Ranged Attacks
 Bows & arrows, crossbows, rifles, plasma cannons, etc are all examples or ranged weapons used in tabletop games. Attacking at range is an similar to close combat. First, decide how many dice you want to use for the attack. A quick hip shot might use only one dice, but an aimed shot at tough enemy might need three!
 
-Once you have decided how many dice to use for the attack you can then roll them. You **CANNOT** split the results after you have rolled. Each dice with a result greater than your "Shoot" stat is considered a success. Each success represents a single point of damage.
+Once you have decided how many dice to use for the attack you can then roll them. You **CANNOT** split the results after you have rolled. Each dice with a result of 4+ is a success (a 6 is 2 succeses). Each success represents a single point of damage.
 
 ### Damage and Defence
-For player characters, each point of damage taken results in removing a dice from the dice pool. Once the player has no dice left in their pool, they are knocked out or killed (removed from the game).
+Each point of damage taken results in removing a dice from the dice pool. Once the player has no dice left in their pool, they are knocked out or killed (removed from the game).
 
-Players can defend against damage using their "Defence" attribute. They can roll as many dice as they have left in their pool. Every dice result that is greater than their "Defence" attribute is a success. Every success will ignore a point of damage.
+Players can defend against damage using their "Defence" attribute. They can roll up to their defence attribute in dice per attack (this is slightly different to other attributes). Every dice result that is a 4+ ignores one point of damage, every 6 ignored 2.
 
-Non player characters (NPC) work a little differently. In order to injure or defeat them you will need to do a enough damage in one attack to equal or exceed their armour. For most NPCs this will be enough to kill them, though some may be able to take multiple hits. 
+Non player characters (NPC) work a little differently. In order to injure or defeat them you will need to do a enough damage in one attack to equal or exceed their defence. For most NPCs this will be enough to kill them, though some may be able to take multiple hits. 
 
 ### Skill Checks
 Games will probably involve players making skill checks for various actions. Picking a lock, hacking a computer, repairing a vehicle are all possible examples of a skilled action.
 
-Making a skill check is similar to attacking. First choose how many dice from your pool to assign to the action. The action will have a difficulty (representing a number of successes). Once you have assigned your dice, you can roll them. Every dice with a result greater than the characters "Skill" attribute is a success.
+Making a skill check is similar to attacking. First choose how many dice from your pool to assign to the action. The action will have a difficulty (representing a number of successes). Once you have assigned your dice, you can roll them. Every dice with a result of 4+ is a success.
 
-**NOTE** some skill actiuons might require a number of sucesses greater than you can achieve in one turn. This is by design, every success against a skill check reduces the difficulty by one. **BUT**vthis resets if you perform any other action between checks.  
+**NOTE** some skill actions might require a number of sucesses greater than you can achieve in one turn. This is by design, every success against a skill check reduces the difficulty by one. **BUT** this resets if you perform any other action between checks.
+
+### Pushing and Fatigue 
+If you want to perfom more actions in a turn than your dice pool allows, you can, but doing so starts to exhaust you quickly, this is represented by fatigue. Every time you perform an action, after you have used all dice in your pool, then you must mark a point of fatigue on your character. For every point of fatigue a character has at the beginning of a turn, they loose one dice from their pool that turn.
+
+If at any point, the number of fatigue points equals or exceeds the characters dice pool, then he character collapses and must spend turns recoving (below) until the number of fatigue points is less than their dice pool.
+
+#### Recovering Fatigue 
+If you want to remove fatigue points from your character, you must spend a turn resting. You must choose to do this at the start of your turn, and once you have chosen to rest you cannot perform any other actions.
+
+After choosing to spend a turn resting, take a number of dice equal to your current fatigue and roll them. Any dice with a score of 4+ result in a point of fatigue being removed and any rolls of a 6 result in two points of fatigue being removed.
