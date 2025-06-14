@@ -3,5 +3,6 @@ Open Adventures is designed to be a simple, modular tabletop gaming ruleset that
 
 ## Contents
 
-* [Core Rules](core-rules.md)
-* [Advanced Rules](advanced-rules.md)
+* [Core Rules](core-rules.md): The basics you need to get playing
+* [Advanced Rules](advanced-rules.md): Optional additional rules
+* [Traits](traits.md): Add variance to your models
