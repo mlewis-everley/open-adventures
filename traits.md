@@ -24,6 +24,14 @@ Each rank of nimble allows you to re-roll one movement dice and pick the highest
 
 Each rank of armoured gives you a free defence dice.
 
-## Weapon (melee/ranged)
+## Superior Weapon (melee/ranged)
 
 When you take this, choose melee or ranged, each rank adds a free dice to that type of attack.
+
+## Ranged Weapon
+
+Each rank in this trail allows you to shoot at a range of 6". For example:
+
+* 1 rank can shoot 6"
+* 2 rankes can shoot 12"
+* 3 ranks can shoot 18"
