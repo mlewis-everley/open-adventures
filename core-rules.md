@@ -82,9 +82,11 @@ Making a skill check is similar to attacking. First choose how many dice from yo
 **NOTE** some skill actions might require a number of sucesses greater than you can achieve in one turn. This is by design, every success against a skill check reduces the difficulty by one. **BUT** this resets if you perform any other action between checks.
 
 ### Pushing and Fatigue 
-If you want to perfom more actions in a turn than your dice pool allows, you can, but doing so starts to exhaust you quickly, this is represented by fatigue. Every time you perform an action, after you have used all dice in your pool, then you must mark a point of fatigue on your character. For every point of fatigue a character has at the beginning of a turn, they loose one dice from their pool that turn.
+If you want to perfom more actions in a turn than your dice pool allows, you can, but doing so starts to exhaust you quickly, this is represented by fatigue. Once you have used all your dice in a turn, if you want to spend more dice then you must mark a point of fatigue on your character.
 
-If at any point, the number of fatigue points equals or exceeds the characters dice pool, then he character collapses and must spend turns recoving (below) until the number of fatigue points is less than their dice pool.
+For every point of fatigue a character has at the beginning of a turn, they loose one dice from their pool that turn.
+
+If at any point, the number of fatigue points equals or exceeds the characters dice pool, then the character becomes stunned and must spend turns recoving (below) until the number of fatigue points is less than their dice pool.
 
 #### Recovering Fatigue 
 If you want to remove fatigue points from your character, you must spend a turn resting. You must choose to do this at the start of your turn, and once you have chosen to rest you cannot perform any other actions.
