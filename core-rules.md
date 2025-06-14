@@ -39,11 +39,6 @@ The Skill attribute is used when you perform skilled actions (such as picking lo
 #### Will
 Willpower is the ability to resist stressful situations, attempts of mind contol, etc. Very strong willed characters will have a will of 3 or 4.
 
-#### Mysticism
-The Mysticism attribute is used when you perform a magical or mystical actions (most commonly casting spells). For some characters (without mystical inclanations) it will be blank. Otherwise it will be a number between 2+ and 6+. This is the number you have to roll on any assigned dice to succeed at performing a magical action.
-
-You may also need to roll dice against your Mysticism attribute instead of Defence to defend against some magical attacks.
-
 #### Defence
 The Defence attribute is used when you need to defend against physical damage. Each sucess rolled on a defence roll ignores 1 point of damage, each critical ignores 2.
 
